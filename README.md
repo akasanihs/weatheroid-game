@@ -1,0 +1,2 @@
+# weatheroid-game
+ウェザーロイドのゲームです。
