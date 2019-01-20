@@ -60,14 +60,6 @@ window.onload = () => {
 	const TweetImg = "image/tweet_button.png"
 	game.preload([TweetImg])
 
-	//リトライボタン
-	const B_Retry = "Retry.png"
-	game.preload([B_Retry])
-
-	//ツイートボタン
-	const B_Tweet = "Tweet.png"
-	game.preload([B_Tweet])
-
 	//読み込み終わり
 	/////////////////////////////////////////////////
 
