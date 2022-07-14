@@ -3,10 +3,10 @@ name: sample template
 about: サンプル
 title: ''
 labels: ''
-assignees: ''
+assignees: 'akasanihs'
 
 ---
 
 ## タスク
 
-- [] タスクA
+- [ ] タスクA
